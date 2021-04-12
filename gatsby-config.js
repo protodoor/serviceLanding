@@ -3,4 +3,5 @@ module.exports = {
     title: "serviceLanding",
   },
   plugins: [],
+  pathPrefix: "/serviceLanding",
 };
